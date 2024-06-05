@@ -10,4 +10,4 @@ Course could be found at [Edx](https://learning.edx.org/course/course-v1:UBCx+SP
 ## Requirements 
 * DrRacket IDE: This course requires the DrRacket integrated development environment (IDE), which supports the teaching languages used in the course.
 * BSL (Beginning Student Language): The programming exercises in this course use BSL, a language created by the course authors and based on the Lisp family of languages.
-* Starter files for course could be found on [GitHub](https://github.com/ossu/spd-starters)
+* Starter files for the course could be found on [GitHub](https://github.com/ossu/spd-starters). I copied them to the repo to always have them close but removed all solution files to work through them on my own. 
